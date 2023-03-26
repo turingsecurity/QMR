@@ -11,7 +11,7 @@ Welcome to Digital Phase-Conjugated Receiver Software for Quantum Microwave Illu
 
 ### Contact
 
-[Dr. Thomas William Crabtree PhD](thomaswilliamcrabtree@gmail.com)
+[Dr. Thomas William Crabtree PhD](thomaswilliamcrabtree@gmail.com) : thomaswilliamcrabtree@gmail.com
 
 
 ## Scientific work:
