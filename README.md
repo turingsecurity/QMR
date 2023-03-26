@@ -1,7 +1,7 @@
 Welcome to Digital Phase-Conjugated Receiver Software for Quantum Microwave Illumination (Radar) :radioactive:! 
 ===================
  
-### NLP (Natural Language Processing) based Neural Network & Neural Language Model software for Digital Phase-Conjugated Receivers used in Quantum Microwave Illumination (Radar) to overcome previously exponetial noise issues (even in a vacuum)
+### NLP (Natural Language Processing / GPT) Neural Network & Neural Language Model enhanced software for Digital Phase-Conjugated Receivers used in Quantum Microwave Illumination (Radar) to overcome previously exponetial noise issues (even in a vacuum)
 
 [OpenAI GPT 4.5/4.6 beta API access is required to use this software](https://huggingface.co/transformers/v4.6.0/model_doc/gpt.html)
 
