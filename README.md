@@ -9,6 +9,9 @@ Welcome to Digital Phase-Conjugated Receiver Software for Quantum Microwave Illu
 
 [Read the docs here.](https://eprints.whiterose.ac.uk/178286/1/Microwave_quantum_Vitali.pdf)
 
+### Contact
+
+[Dr. Thomas William Crabtree PhD](thomaswilliamcrabtree@gmail.com)
 
 
 ## Scientific work:
